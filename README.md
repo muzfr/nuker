@@ -1,4 +1,4 @@
-# 💥 COM Client v2 — Discord Server Obliterator
+# 💥 COM Client v1 — Discord Server DESTROYER @vebc
 
 A full-featured Discord nuker script made for chaos. Built for Python 3.11+, this tool lets you annihilate a server with style.
 
