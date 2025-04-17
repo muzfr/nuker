@@ -1,6 +1,6 @@
 # 💥 COM Client v1 — Discord Server DESTROYER @vebc
 
-A full-featured Discord nuker script made for chaos. Built for Python 3.11+, this tool lets you annihilate a server with style.
+A full-featured Discord nuker script made for nuking etc. Built for Python 3.11+, this tool lets you nuke a server with style twin.
 
 > ⚠️ Educational purposes only. Do not use against any server without explicit permission. You are responsible for what you do with this code.
 
@@ -32,7 +32,7 @@ Edit
 ### 🛠 Setup
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/COM-Client-v2.git
-cd COM-Client-v2
+git clone https://github.com/muzfr/nuker.git
+cd COM-Client-v1
 pip install -r requirements.txt
 python com_nuker.py
