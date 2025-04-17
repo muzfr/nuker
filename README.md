@@ -1,4 +1,4 @@
-# 💥 COM Client v1 — Discord Server DESTROYER @separability
+# 💥 COM Client v1 — Discord Server DESTROYER @overflying 
 
 A full-featured Discord nuker script made for nuking etc. Built for Python 3.11+, this tool lets you nuke a server with style twin.
 
@@ -19,7 +19,7 @@ A full-featured Discord nuker script made for nuking etc. Built for Python 3.11+
 ---
 
 # 👑 Credits
-Made by @separability
+Made by @overflying 
 
 Custom client builds at: discord.gg/says
 
