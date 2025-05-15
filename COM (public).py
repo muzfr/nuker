@@ -13,7 +13,7 @@ def splash():
  ╚═════╝ ╚═════╝ ╚═╝     ╚═╝     ╚═════╝╚══════╝╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝   
 
                  ✦ COM CLIENT v1 — FULL SERVER FUCKER. ✦
-                   github.com/muzfr | @fanciers  | 2025
+                   github.com/muzfr | @imneverenough  | 2025
     """)
     time.sleep(2)
 
