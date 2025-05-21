@@ -38,7 +38,7 @@ def splash():
 ⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
                  ✦ NUKER ✦
-                   github.com/muzfr | @imneverenough  | 2025
+                   github.com/muzfr | @decmber31  | 2025
     """)
     time.sleep(2)
 
